@@ -1,6 +1,6 @@
 name: flextech
 description: Projeto de componentes FlexTech
-version: 0.0.1
+version: 0.0.2
 author: RafaelToebe<rafael.toebe@flextech.com.py>
 homepage: https://github.com/flextech-lab/flutter-components
 
@@ -11,7 +11,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  get: ^4.0.1
   intl: ^0.17.0
 
 dev_dependencies:
