@@ -1,7 +1,5 @@
 library flextech;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
-  int addOne(int value) => value + 1;
-}
+export 'inputs/number_input/number_input.dart';
+export 'inputs/text_input/text_form_input.dart';
+export 'inputs/text_input/text_input.dart';

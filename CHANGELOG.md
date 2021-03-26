@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - Inputs
 
-* TODO: Describe initial release.
+Adicionado TextInput, NumberInput e TextFormInput
