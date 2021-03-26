@@ -1,6 +1,5 @@
 import 'package:flextech/inputs/formatter/numeric_decimal_formatter.dart';
 import 'package:flextech/inputs/formatter/numeric_formatter.dart';
-import 'package:flextech/theme/custom_theme_data.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/intl.dart';
